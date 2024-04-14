@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="DeathKeepLvlExtractor">
+</Property><Property Name="Solution File" Value="I:\Мои документы\Приставки\DeathKeep converter\DeathKeepLVL3\DeathKeepLvlExtractor\DeathKeepLvlExtractor.sln">
+</Property><Property Name="Date" Value="23 августа 2020 г.">
+</Property><Property Name="Time" Value="18:56">
+</Property></Properties><Event ErrorLevel="0" Project="DeathKeepLvlExtractor" Source="DeathKeepLvlExtractor.vcproj" Description="Converting project file 'I:\Мои документы\Приставки\DeathKeep converter\DeathKeepLVL3\DeathKeepLvlExtractor\DeathKeepLvlExtractor.vcproj'.">
+</Event><Event ErrorLevel="1" Project="DeathKeepLvlExtractor" Source="DeathKeepLvlExtractor.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="DeathKeepLvlExtractor" Source="DeathKeepLvlExtractor.vcproj" Description="Attribute 'CopyLocalDependencies' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="DeathKeepLvlExtractor" Source="DeathKeepLvlExtractor.vcproj" Description="Attribute 'UseDependenciesInBuild' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="DeathKeepLvlExtractor" Source="DeathKeepLvlExtractor.vcproj" Description="Attribute 'CopyLocalDependencies' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="DeathKeepLvlExtractor" Source="DeathKeepLvlExtractor.vcproj" Description="Attribute 'UseDependenciesInBuild' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="DeathKeepLvlExtractor" Source="DeathKeepLvlExtractor.vcproj" Description="Attribute 'CopyLocalDependencies' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="DeathKeepLvlExtractor" Source="DeathKeepLvlExtractor.vcproj" Description="Attribute 'UseDependenciesInBuild' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="DeathKeepLvlExtractor" Source="DeathKeepLvlExtractor.vcproj" Description="Attribute 'CopyLocalDependencies' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="DeathKeepLvlExtractor" Source="DeathKeepLvlExtractor.vcproj" Description="Attribute 'UseDependenciesInBuild' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="DeathKeepLvlExtractor" Source="DeathKeepLvlExtractor.vcproj" Description="Attribute 'CopyLocalDependencies' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="DeathKeepLvlExtractor" Source="DeathKeepLvlExtractor.vcproj" Description="Attribute 'UseDependenciesInBuild' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="0" Project="DeathKeepLvlExtractor" Source="DeathKeepLvlExtractor.vcproj" Description="Done converting to new project file 'I:\Мои документы\Приставки\DeathKeep converter\DeathKeepLVL3\DeathKeepLvlExtractor\DeathKeepLvlExtractor.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="DeathKeepLvlExtractor" Source="DeathKeepLvlExtractor.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="DeathKeepLvlExtractor.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="DeathKeepLvlExtractor.sln" Description="Converted">
+</Event></UpgradeLog>
